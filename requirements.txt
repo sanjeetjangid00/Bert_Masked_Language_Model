@@ -1,3 +1,4 @@
+--upgrade pip
 tf-keras
 transformers
 tensorflow
