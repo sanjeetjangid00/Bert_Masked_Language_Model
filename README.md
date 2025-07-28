@@ -1,7 +1,8 @@
 ------------------------
 ## BERT Mask Language Model
 ------------------------
-### App Link - https://bert-mlm.streamlit.app/
+
+![Bert MLM](https://github.com/user-attachments/assets/3442ce00-d43c-478e-b3c3-2769758110ba)
 
 This project demonstrates a Masked Language Model (MLM) using BERT (Bidirectional Encoder Representations from Transformers). It allows users to input sentences with a masked token ([MASK]), and the model predicts the most probable substitutions for the masked word.
 
